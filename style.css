@@ -1,5 +1,5 @@
 :root{
-  --background: #000000;
+  --background: #000000f0;
   --primaryColor: #1C1D20;
   --secondaryColor: #4A4D57;
   --hoverColor: #27292d;
@@ -64,6 +64,7 @@ form{
   height: 100%;
   border-radius: 50px;
   font: inherit;
+  font-size: 14px;
   font-weight: 600;
   padding: 0px 30px;
   color: var(--background);
